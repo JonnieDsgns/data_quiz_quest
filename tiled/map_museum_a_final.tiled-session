@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/maps/museum_a_map_exterior.json",
+    "expandedProjectPaths": [
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/maps",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/maps/museum_a_map_exterior.json": {
+            "scale": 0.03125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 13600,
+                "y": 10112
+            }
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Bedroom.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/BordersInterior.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Camping.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/CityProps.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Classroom.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/FloorsInterior.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Garden.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/images/tiles",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "openFiles": [
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/maps/museum_a_map_exterior.json"
+    ],
+    "project": "map_museum_a_final.tiled-project",
+    "recentFiles": [
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/maps/museum_a_map_exterior.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Garden.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/FloorsInterior.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Classroom.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/CityProps.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Camping.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/BordersInterior.json",
+        "C:/Users/Yannick/Meine Dokumente/Studium/Master/Applikationsdesign/studienarbeit_2025/quiz_quest/assets/images/museum_a/tilesets/Bedroom.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

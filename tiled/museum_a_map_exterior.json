@@ -188,7 +188,7 @@
                         {
                          "name":"playerPosition",
                          "type":"string",
-                         "value":"72, 672"
+                         "value":"72, 640"
                         }],
                  "rotation":0,
                  "type":"",
@@ -215,7 +215,7 @@
                         {
                          "name":"playerPosition",
                          "type":"string",
-                         "value":"296, 448"
+                         "value":"250, 440"
                         }],
                  "rotation":0,
                  "type":"",
@@ -242,7 +242,7 @@
                         {
                          "name":"playerPosition",
                          "type":"string",
-                         "value":"40, 480"
+                         "value":"640, 800"
                         }],
                  "rotation":0,
                  "type":"",
